@@ -7,6 +7,6 @@ tareas de computo
 [fishing](https://drive.google.com/file/d/14SSOADB-i2yJrFTxEX-dPFGkuPVzF5C5/view?usp=sharing)
 
 
-###tarea #988 Investigar sobre Password Managers
+### tarea #988 Investigar sobre Password Managers
 [passwordmanager.pdf.pdf](https://github.com/user-attachments/files/22537874/passwordmanager.pdf.pdf)
 
