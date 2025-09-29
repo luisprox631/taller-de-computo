@@ -11,4 +11,5 @@ tareas de computo
 [passwordmanager.pdf.pdf](https://github.com/user-attachments/files/22537874/passwordmanager.pdf.pdf)
 
 ### Tarea #987 Investigar sobre CMS
-[CMS.PDF.pdf](https://github.com/user-attachments/files/22597638/CMS.PDF.pdf)
+[CMS.pdf](https://github.com/user-attachments/files/22597651/CMS.pdf)
+
