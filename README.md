@@ -13,3 +13,5 @@ tareas de computo
 ### Tarea #987 Investigar sobre CMS
 [CMS.pdf](https://github.com/user-attachments/files/22597651/CMS.pdf)
 
+### Tarea #992 mapa conceptual
+[Tarea992-articulo.png.pdf](https://github.com/user-attachments/files/22821747/Tarea992-articulo.png.pdf)
