@@ -17,5 +17,6 @@ tareas de computo
 [Tarea992-articulo.png.pdf](https://github.com/user-attachments/files/22821747/Tarea992-articulo.png.pdf)|
 
 ### Tarea993-rangos
-[Para seleccionar la celda B3 (4).docx](https://github.com/user-attachments/files/22949846/Para.seleccionar.la.celda.B3.4.docx)
+[Tarea993-rangos.pdf.docx](https://github.com/user-attachments/files/22949896/Tarea993-rangos.pdf.docx)
+
 
