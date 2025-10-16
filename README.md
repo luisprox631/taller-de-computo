@@ -14,4 +14,8 @@ tareas de computo
 [CMS.pdf](https://github.com/user-attachments/files/22597651/CMS.pdf)
 
 ### Tarea #992 mapa conceptual
-[Tarea992-articulo.png.pdf](https://github.com/user-attachments/files/22821747/Tarea992-articulo.png.pdf)
+[Tarea992-articulo.png.pdf](https://github.com/user-attachments/files/22821747/Tarea992-articulo.png.pdf)|
+
+### Tarea993-rangos
+[Para seleccionar la celda B3 (4).docx](https://github.com/user-attachments/files/22949846/Para.seleccionar.la.celda.B3.4.docx)
+
