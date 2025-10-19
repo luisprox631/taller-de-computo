@@ -19,4 +19,5 @@ tareas de computo
 ### Tarea#993-rangos
 [Tarea993-rangos.pdf.docx](https://github.com/user-attachments/files/22949896/Tarea993-rangos.pdf.docx)
 
-
+### Tarea#986 Construir un sitio web en wordpress.com
+https://luishedz631-ulzwc.wordpress.com/?_gl=1*1ucx8gn*_gcl_au*MTY0MDk1MzExNC4xNzYwODk3MTU4LjE0MDAxMzU0MTkuMTc2MDkwNjY4OS4xNzYwOTA2NzIz
