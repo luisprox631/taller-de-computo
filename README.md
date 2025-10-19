@@ -16,7 +16,7 @@ tareas de computo
 ### Tarea #992 mapa conceptual
 [Tarea992-articulo.png.pdf](https://github.com/user-attachments/files/22821747/Tarea992-articulo.png.pdf)
 
-### Tarea993-rangos
+### Tarea#993-rangos
 [Tarea993-rangos.pdf.docx](https://github.com/user-attachments/files/22949896/Tarea993-rangos.pdf.docx)
 
 
