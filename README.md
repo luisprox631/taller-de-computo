@@ -6,6 +6,10 @@ tareas de computo
 ### tarea998 fishing
 [fishing](https://drive.google.com/file/d/14SSOADB-i2yJrFTxEX-dPFGkuPVzF5C5/view?usp=sharing)
 
+### tarea997 curriculum
+[Uploading Currículum.docx…]()
+
+
 ### tarea 994 crear citio web
 https://luis4665.wordpress.com/
 
