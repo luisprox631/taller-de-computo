@@ -7,8 +7,7 @@ tareas de computo
 [fishing](https://drive.google.com/file/d/14SSOADB-i2yJrFTxEX-dPFGkuPVzF5C5/view?usp=sharing)
 
 ### tarea997 curriculum
-[Uploading Currículum.docx…]()
-
+[Currículum.pdf](https://github.com/user-attachments/files/23454319/Curriculum.pdf)
 
 ### tarea 994 crear citio web
 https://luis4665.wordpress.com/
